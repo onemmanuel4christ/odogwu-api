@@ -24,5 +24,21 @@
       "title": "Regulate blood sugar",
       "description": "Odogwu bitters aids in boosting the immune system and may also help in the relief of stress and regulation of the body sugar level and Promotion of body weight lossOdogwu bitters aids in boosting the immune system and may also help in the relief of stress and regulation of the body sugar level and Promotion of body weight loss"
     }
+  ],
+  "products":[
+    {
+      "id": 1,
+      "img_url":"./images/pic4.jpg",
+      "title": "Odogwu Bitters (200ml)",
+      "review": 4,
+      "description":"Odogwu bitters aids in boosting the immune system and may also help in the relief of stress and regulation of the body sugar level and Promotion of body weight lossOdogwu bitters aids in boosting the immune system and may also help in the relief of stress and regulation of the body sugar level and Promotion of body weight loss",
+      "price": 1500
+    }
+  ],
+  "distributors":[
+    {
+      "id": 1
+    }
   ]
+
 }
